@@ -2,7 +2,7 @@ import streamlit as st
 
 # Set page configuration
 st.set_page_config(
-    page_title="Samriddhi Saxena - Data Scientist Portfolio",
+    page_title="Samriddhi Saxena",
     layout="wide",
     page_icon="📊"
 )
