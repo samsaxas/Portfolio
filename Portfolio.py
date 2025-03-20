@@ -84,7 +84,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header with emoji
-st.markdown('<div class="header">📊 Samriddhi Saxena - Data Scientist Portfolio</div>', unsafe_allow_html=True)
+st.markdown('<div class="header">📊 Samriddhi Saxena </div>', unsafe_allow_html=True)
 
 # About Me Section
 st.markdown('<div class="section-title">👋 About Me</div>', unsafe_allow_html=True)
